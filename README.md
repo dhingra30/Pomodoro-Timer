@@ -21,7 +21,7 @@ The Pomodoro Timer is a simple and effective productivity tool designed to help 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/pomodoro-timer.git](https://github.com/dhingra30/Pomodoro-Timer.git)
+   git clone https://github.com/dhingra30/Pomodoro-Timer.git
    ```
 
 2. Navigate to the project directory:
